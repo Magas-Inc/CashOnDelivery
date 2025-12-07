@@ -2,7 +2,7 @@
     "name": "it4mage/cashondelivery",
     "description": "",
     "require": {
-        "php": "^7.0|^7.1",
+        "php": "^7.0|^7.1|^8.3",
         "magento/magento-composer-installer": "*"
     },
     "suggest": {
